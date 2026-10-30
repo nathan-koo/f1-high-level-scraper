@@ -7,7 +7,7 @@ from Wikipedia; the scraper writes the information to f1_champions.csv. To give 
 
 pip install -r requirements.txt
 
-./scraper.py
+./scraper.py # defaults to 8 threads
 
 ./scraper.py -n 1                # 1 thread
 
@@ -31,7 +31,7 @@ $ head -7 f1_champions.csv
 
 | 1  | 14.79 | 1.0  |
 
-| 8  | 2.28  | 6.5  |
+| 8  | 2.29  | 6.5  |
 
 | 16 | 1.14  | 13.0 |
 
