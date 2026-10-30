@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ./scraper.py -n 1                # 1 thread
 
-./scraper.py -n 2 out.csv  # 2 threads
+./scraper.py -n 2                # 2 threads
 
 ./scraper.py -h                  # usage
 
