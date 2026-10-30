@@ -23,13 +23,13 @@ $ head -3 f1_champions.csv
 
 ## Performance impacts
 
-workers | seconds | speedup (x)
+| workers | seconds | speedup (x) |
 
-1 | 14.79 | 1.0
+| 1  | 14.79 | 1.0  |
 
-8 | 2.28 | 6.5
+| 8  | 2.28  | 6.5  |
 
-16 | 1.14 | 13.0
+| 16 | 1.14  | 13.0 |
 
 concurrent.futures: As we have said in class, while there is certainly benefit to using multiple threads, the gain starts to flatten because of bottlenecks.
 
