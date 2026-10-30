@@ -8,8 +8,11 @@ from Wikipedia; the scraper writes the information to f1_champions.csv. To give 
 pip install -r requirements.txt
 
 ./scraper.py
+
 ./scraper.py -n 1                # 1 thread
+
 ./scraper.py -n 2 out.csv  # 2 threads
+
 ./scraper.py -h                  # usage
 
 ## Real output
