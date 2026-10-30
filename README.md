@@ -35,4 +35,4 @@ concurrent.futures: As we have said in class, while there is certainly benefit t
 
 functional programming: helps keep the threads safe. Allows copies to run simultaneously without deadlocks or race conditions (as the terminology is in our course slides).
 
-(Side note: I filled out this README based on the sections outlined in the assignment instructions)
+(Side note: I filled out this README based on the sections outlined in the assignment instructions; I also used online tools to help me on the GitHub end)
