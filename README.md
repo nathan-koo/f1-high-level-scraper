@@ -12,14 +12,12 @@ pip install -r requirements.txt
 ./scraper.py -n 2 out.csv  # 2 threads
 ./scraper.py -h                  # usage
 
-
 ## Real output
 
 $ ./scraper.py
-
-
-$ head -3 f1_champions.csv
-
+<img width="679" height="60" alt="image" src="https://github.com/user-attachments/assets/bee2a0cf-7aba-4b56-91bf-80c6839bcccc" />
+$ head -7 f1_champions.csv
+<img width="657" height="152" alt="image" src="https://github.com/user-attachments/assets/a69c15df-6786-43a7-b06b-808a193303ef" />
 
 ## Performance impacts
 
